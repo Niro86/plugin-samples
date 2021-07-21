@@ -1,4 +1,4 @@
-# 🔌 Figma Plugin Samples
+# 🔌 Figma Plugin Samples New
 
 Sample plugins using the [Figma Plugin API][docs].
 
